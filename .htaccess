@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond $1 !^(assets|robots\.txt|faaa\.tar\.gz|index\.php|form) [NC]
+RewriteRule ^(.*)$ index.php?/$1 [L,QSA]
+</IfModule>

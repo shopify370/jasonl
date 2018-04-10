@@ -1,0 +1,8 @@
+Array
+(
+    [Authentication-Key] => bacf9b37-d97f-11e6-97b1-02053ce9428f
+    [User-Agent] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-T705 Build/MMB29K)
+    [Host] => ci.draftserver.com
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+)

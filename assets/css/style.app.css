@@ -1,0 +1,23 @@
+
+#sidebar {
+float: left;
+height: 100%;
+width: 250px;
+/*overflow: auto;*/
+position:fixed;
+}
+
+#content {
+height: 100%;
+padding: 10px;
+margin-left: 250px;
+overflow-y: auto;    
+}
+
+#results {
+    height:100%;
+    overflow: auto;
+}
+.mainNav {height: 100%;overflow: auto;}
+
+#wrap { background-color: transparent;}
